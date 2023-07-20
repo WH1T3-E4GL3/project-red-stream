@@ -6,7 +6,7 @@ Red Stream is a full stack website project based on online blood donation. This 
 
 <b><i>Read how you can run this project on your system with all functions at the bottom of this page.</i></b>
 
-There is an old basic version of this project, you can find the link at https://github.com/WH1TE-401/old-red-stream
+There is an old basic version of this project, you can find the project at https://github.com/WH1T3-E4GL3/old-red-stream
 
 # Screenshot
 
