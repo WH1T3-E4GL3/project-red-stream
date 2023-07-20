@@ -13,7 +13,7 @@ There is an old basic version of this project, you can find the project at https
 
 
 
-<b><strong><i>You can visit the website live at </i></strong></b>https://wh1te-401.github.io/Project-Red-Stream/
+<b><strong><i>You can visit the website live at </i></strong></b>[https://wh1te-401.github.io/Project-Red-Stream/](https://wh1t3-e4gl3.github.io/project-red-stream/)
 
 
 This is a web template that I have created and made available for private use. Please note the licensing terms before using this template.
