@@ -5,7 +5,7 @@
 Red Stream is a full stack website project based on online blood donation. This  is a responsive and userfriendly website for making the process of blood donation easy.
 
 # Depricated: 
-Sorry to say, My working on this project is discontinued and will not do any further updates. This project is discontinued due to personal work loads, Anyway you can download this project in this condition and improve yourself.
+<b><i>Sorry to say, My working on this project is discontinued and will not do any further updates. This project is discontinued due to personal work loads, Anyway you can download this project in this condition and improve yourself.</b></i>
 
 <b><i>Read how you can run this project on your system with all functions at the bottom of this page.</i></b>
 
