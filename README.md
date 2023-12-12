@@ -1,11 +1,11 @@
-     UNDER DEVOLOPEMENT ⚒️
+     Discontinued ⚒️
 # Project Red Stream
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RESPONSIVE+WEBSITE+TEMPLATE;)](https://git.io/typing-svg)
 
 Red Stream is a full stack website project based on online blood donation. This  is a responsive and userfriendly website for making the process of blood donation easy.
 
 # Discontinued: 
-<b><i>Sorry to say, My working on this project is discontinued and will not do any further updates. This project is discontinued due to personal work loads, Anyway you can download this project in this condition and improve yourself.</b></i>
+<b><i>Sorry to say, My working on this project is discontinued/dropped and will not do any further updates. This project is discontinued due to personal work loads, Anyway you can download this project in this condition and improve yourself.</b></i>
 
 <b><i>Read how you can run this project on your system with all functions at the bottom of this page.</i></b>
 
