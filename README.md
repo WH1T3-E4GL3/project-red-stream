@@ -2,6 +2,8 @@
 # Project Red Stream
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RESPONSIVE+WEBSITE+TEMPLATE;)](https://git.io/typing-svg)
 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxitte)
+
 Red Stream is a full stack website project based on online blood donation. This  is a responsive and userfriendly website for making the process of blood donation easy.
 
 # Discontinued: 
